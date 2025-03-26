@@ -55,8 +55,6 @@ This project analyzes transactional data from a UK-based online retail store (De
 
 ## 📊 Sample Visualizations
 
-![Monthly Sales Trend](reports/figures/sales_trend.png)  
-*Monthly revenue trends with seasonality highlights*
 
-![RFM Segments](reports/figures/rfm_segments.png)  
+![RFM Segments](cluster%20distribution.png)  
 *Customer segments based on purchasing behavior*
