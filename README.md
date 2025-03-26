@@ -56,5 +56,6 @@ This project analyzes transactional data from a UK-based online retail store (De
 ## 📊 Sample Visualizations
 
 
-![RFM Segments](cluster%20distribution.png)  
-*Customer segments based on purchasing behavior*
+![RFM Segments](Cluster%20Distribution.png)
+*Customer segments based on purchasing behavior*)  
+
